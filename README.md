@@ -4,7 +4,7 @@
 
 ## 開発環境
 
-* AWS Cloud9
+* VScode
 * Ruby 2.6.3
 * Rails 5.1.6
 * GitHub
